@@ -1,12 +1,21 @@
 tck 243. madde
 <br>
 👋 Welcome
+<br>
 🚀 About Me
+<br>
 zeus cheats owner 👑
+<br>
+%100 banlanmayan tek hile banlanırsa spoofer bedava
+<br>
 🛠️ Tech Stack
+<br>
 Frontend:css,html,javascript
+<br>
 Backend: python,c,java
+<br>
 Database:mysql
+<br>
 AI Engineering: Gemini API, OpenAI
 
 <!---
